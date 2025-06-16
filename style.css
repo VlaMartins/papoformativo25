@@ -7,9 +7,10 @@ body{
 
 header{
      /* font-family: sans-serif; */
-     font-size: 60px;
-     border-bottom: 2px solid blue;
+     font-size: 32px;
+     border-bottom: 2px solid rgb(27, 27, 231);
      padding: 20px;
+     color: rgb(27, 27, 231);
 }
 
 h1 {
