@@ -6,11 +6,10 @@ body{
 }
 
 header{
-     /* font-family: sans-serif; */
      font-size: 32px;
      border-bottom: 2px solid rgb(27, 27, 231);
      padding: 20px;
-     color: rgb(27, 27, 231);
+     color: rgb(141, 190, 247);
 }
 
 h1 {
