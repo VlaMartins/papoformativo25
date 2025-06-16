@@ -4,3 +4,15 @@ body{
     font-family: "Edu VIC WA NT Hand Pre", cursive;
 }
 
+header{
+     font-family: sans-serif;
+     font-size: 60px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
