@@ -31,6 +31,8 @@ section {
 	justify-content: center;
 }
 
+
+/* obs: explicar o seletor universal se der tempo */
 .chamada-texto {
     margin-right: 5%;
 }
