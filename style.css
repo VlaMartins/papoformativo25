@@ -21,3 +21,16 @@ p{
     font-size: 18px;
     padding-left: 50px;
 }
+
+/* 23/06 */
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+	justify-content: center;
+}
+
+
+
+
