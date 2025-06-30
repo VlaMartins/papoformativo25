@@ -42,9 +42,9 @@ img{
 }
 
 .categoria-videos{
-    display: flex;
-    overflow-x: auto;
-    gap:10px;
+    display: flex;/*flexivel*/
+    overflow-x: auto; /*rolagem somente nas imagens*/
+    gap:10px; /* espaçamento entre as img*/
 }
 
 .categoria{
